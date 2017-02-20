@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "PCell.becomeSad() -&gt; ():PCell.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.identity.rawValue">
+            </PersistentString>
+            <PersistentString
+               value = "self.state.rawValue">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Canvas.reloadCells() -&gt; ():Canvas.swift">
+      </ContextState>
+      <ContextState
+         contextName = "PolygonsDataSource.swapData(between : IndexPath, and : IndexPath) -&gt; ():PolygonsDataSource.swift">
+      </ContextState>
+      <ContextState
+         contextName = "Canvas.updateAllCell(around : PCell) -&gt; ():Canvas.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.dataSource.polygons[end]">
+            </PersistentString>
+            <PersistentString
+               value = "self.correctPoint">
+            </PersistentString>
+            <PersistentString
+               value = "cell.frame.origin">
+            </PersistentString>
+            <PersistentString
+               value = "self.width">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Canvas.itNeed(refresh : PCell) -&gt; Bool:Canvas.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "newPolygon.identity">
+            </PersistentString>
+            <PersistentString
+               value = "cell.identity">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PCell.showSelf() -&gt; ():PCell.swift">
+      </ContextState>
+      <ContextState
+         contextName = "Canvas.autoPlay(timer : Timer) -&gt; ():Canvas.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "polygon">
+            </PersistentString>
+            <PersistentString
+               value = "self.canGoNextRound">
+            </PersistentString>
+            <PersistentString
+               value = "dataSource.aRandomSadPolygon()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Canvas.autoPlay2(timer : Timer) -&gt; ():Canvas.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
