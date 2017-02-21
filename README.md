@@ -31,8 +31,8 @@ Idea来自于[一个PolygonStory的网页](http://ncase.me/polygons/)，做出�
 
 动图演示如下：
 
-![PolygonDemonstrate1](/Users/medusasa/Documents/iOS_Learning/PolygonStory/PolygonDemonstrate1.gif)
+![PolygonDemonstrate1](https://raw.githubusercontent.com/wokenqingtian/PolygonStory/master/Ilustrate2.gif)
 
 
 
-![PolygonDemonstrate2](/Users/medusasa/Documents/iOS_Learning/PolygonStory/PolygonDemonstrate2.gif)
+![PolygonDemonstrate2](https://raw.githubusercontent.com/wokenqingtian/PolygonStory/master/Ilustrate1.gif)
