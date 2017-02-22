@@ -22,12 +22,20 @@ Idea来自于[一个PolygonStory的网页](http://ncase.me/polygons/)，做出�
 * 多边形自行完成游戏（自己选点，自己做判断，每个多边形会根据周边的情况实时做出反应）
   * 通过让多边形自我移动的动画时间远超定时器从而达到多个多边形同时移动的假象
 * 通过两张图的视差达到按钮点击下沉的动画效果
+* 富文本的基本使用
 
 以上可见：其实我并没有使用很多复杂的控件，更多的是逻辑上的设计，自己还是蛮喜欢完这种小逻辑的。
 
 ### Wiki结构
 
+项目的开发笔记都记录在项目的[wiki](https://github.com/wokenqingtian/PolygonStory/wiki)中
 
+```
+wiki
+  ├── feature            # 项目笔记
+  ├── picture            # 图片资源
+  └── userstory_versions   # others 思维导图存档
+```
 
 动图演示如下：
 
